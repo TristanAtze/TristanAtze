@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MemoriaPI](https://github.com/TristanAtze/MemoriaPi)
 
-- 🌱 I’m currently learning **advanced ASP.NET**
+- 🌱 I’m currently learning **advanced ASP .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TristanAtze?tab=repositories](https://github.com/TristanAtze?tab=repositories)
 
