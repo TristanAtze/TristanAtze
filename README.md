@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tristanatze" alt="tristanatze" /></a> </p>
 
-- 🔭 I’m currently working on [my own Password Manager](https://github.com/TristanAtze/PasswordManager)
+- 🔭 I’m currently working on [my own Nuget Packages](https://github.com/Rick-Lang/rickroll-lang))
 
 - 🌱 I’m currently learning **.NET MAUI**
 
