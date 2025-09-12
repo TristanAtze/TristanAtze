@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.NET MAUI and C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TristanAtze?tab=repositories](https://github.com/TristanAtze?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/TristanAtze?tab=repositories)
 
 - 💬 Ask me about **Cryptography**
 
