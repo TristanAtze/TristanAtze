@@ -24,6 +24,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristanatze&show_icons=true&locale=en" alt="tristanatze" /></p>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=TristanAtze&theme=dark)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tristanatze&" alt="tristanatze" /></p>
 
 <h3 align="left">Connect with me:</h3>
