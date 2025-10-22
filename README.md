@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/TristanAtze?tab=repositories)
 
-- 💬 Ask me about **Cryptography** or **making Nuget-Packages**
+- 💬 Ask me about **Cryptography** or **Cybersecurity (Team Red)**
 
 - 📫 How to reach me **tristan.atze@gmail.com**
 
